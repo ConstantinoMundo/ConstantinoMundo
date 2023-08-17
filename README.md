@@ -1,8 +1,9 @@
-## Hey!! I am Constantino!😊
+## Hey!! I'm Constantino!😊
 
+- **I'm Angola/Luanda** 🌐
 - **Currently I am coding in Java!** 😉
-- **I'm studying Computer Engineering at Gregório Semedo University - Angola/Luanda** 🌐
-- **I like games, codes, musica, futebol 💥**
+- **I'm studying Computer Engineering**
+- **I like games, codes, music, futebol 💥**
 
 
  <div>
